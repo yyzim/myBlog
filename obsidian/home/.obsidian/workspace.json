@@ -11,8 +11,12 @@
             "id": "922b33875b39b8c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "随录/2023年5月22日.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "随录/2023年5月22日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "随录/2023年5月22日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "随录/2023年5月22日.md"
+              }
             }
           }
         ]
@@ -138,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ab6e37b56fcefe5",
+  "active": "922b33875b39b8c0",
   "lastOpenFiles": [
-    "Untitled",
-    "目标/2023/5月.md",
     "生活/随录/2023年5月3日.md",
+    "随录/2023年5月22日.md",
+    "随录",
+    "目标/2023/5月.md",
     "目标/2023",
     "目标/2023年.md",
     "目标",
